@@ -1,11 +1,10 @@
 ---
 Title: 【雑記】岩盤浴いいね
-EditURL: https://blog.hatena.ne.jp/mrk_bbb/mrk-bbb.hateblo.jp/atom/entry/6802418398543680160
-PreviewURL: https://mrk-bbb.hateblo.jp/draft/entry/kZfsqNhKeytj4FntZ54bOeNhCwY
-Draft: false
-CustomPath: 2025/08/20250813_ganbanyoku_iizo
 Category:
-  - 雑記
+- 雑記
+Date: 2025-08-12T22:10:05+09:00
+URL: https://mrk-bbb.hateblo.jp/entry/2025/08/20250813_ganbanyoku_iizo
+EditURL: https://blog.hatena.ne.jp/mrk_bbb/mrk-bbb.hateblo.jp/atom/entry/6802418398543680160
 ---
 
 どうも。
