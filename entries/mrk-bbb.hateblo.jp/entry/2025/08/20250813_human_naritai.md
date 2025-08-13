@@ -1,11 +1,10 @@
 ---
 Title: 【雑記】人間になりたい
-EditURL: https://blog.hatena.ne.jp/mrk_bbb/mrk-bbb.hateblo.jp/atom/entry/6802418398545443431
-PreviewURL: https://mrk-bbb.hateblo.jp/draft/entry/5HeDrBu0gpSM9MLGWH0PyeOWvWY
-Draft: false
 Category:
 - 雑記
-CustomPath: 2025/08/20250813_human_naritai
+Date: 2025-08-13T23:25:45+09:00
+URL: https://mrk-bbb.hateblo.jp/entry/2025/08/20250813_human_naritai
+EditURL: https://blog.hatena.ne.jp/mrk_bbb/mrk-bbb.hateblo.jp/atom/entry/6802418398545443431
 ---
 
 どうも。今日はかなり短めです。
