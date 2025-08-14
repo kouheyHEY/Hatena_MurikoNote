@@ -1,11 +1,10 @@
 ---
 Title: 【ゲーム開発】開発のジレンマ
-EditURL: https://blog.hatena.ne.jp/mrk_bbb/mrk-bbb.hateblo.jp/atom/entry/6802418398547107281
-PreviewURL: https://mrk-bbb.hateblo.jp/draft/entry/JMy7-Dja5E5v62z_ka56hfqYxjg
-Draft: false
 Category:
 - ゲーム開発
-CustomPath: 2025/08/20250815_game_dev_dilemma
+Date: 2025-08-15T02:16:35+09:00
+URL: https://mrk-bbb.hateblo.jp/entry/2025/08/20250815_game_dev_dilemma
+EditURL: https://blog.hatena.ne.jp/mrk_bbb/mrk-bbb.hateblo.jp/atom/entry/6802418398547107281
 ---
 
 どうも。
