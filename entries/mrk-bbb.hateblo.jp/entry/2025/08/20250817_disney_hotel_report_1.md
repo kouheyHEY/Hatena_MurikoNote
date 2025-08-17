@@ -1,11 +1,10 @@
 ---
 Title: 【雑記】ディズニーホテル宿泊レポート その１
-EditURL: https://blog.hatena.ne.jp/mrk_bbb/mrk-bbb.hateblo.jp/atom/entry/6802418398551099825
-PreviewURL: https://mrk-bbb.hateblo.jp/draft/entry/VW8nUCu5ydMMJ0MrNAOAkqhDpBE
-Draft: false
-CustomPath: 2025/08/20250817_disney_hotel_report_1
 Category:
-    - 雑記
+- 雑記
+Date: 2025-08-17T23:55:25+09:00
+URL: https://mrk-bbb.hateblo.jp/entry/2025/08/20250817_disney_hotel_report_1
+EditURL: https://blog.hatena.ne.jp/mrk_bbb/mrk-bbb.hateblo.jp/atom/entry/6802418398551099825
 ---
 
 どうも。
