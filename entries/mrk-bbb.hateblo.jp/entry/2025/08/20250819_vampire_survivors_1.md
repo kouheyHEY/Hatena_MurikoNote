@@ -1,11 +1,10 @@
 ---
 Title: 【ゲーム感想】Vampire Survivorsの所感
-EditURL: https://blog.hatena.ne.jp/mrk_bbb/mrk-bbb.hateblo.jp/atom/entry/6802418398553139283
-PreviewURL: https://mrk-bbb.hateblo.jp/draft/entry/TbWXK1VM87qCOjeA6_b-Yc8d_ac
-Draft: false
-CustomPath: 2025/08/20250819_vampire_survivors_1
 Category:
-    - ゲーム感想
+- ゲーム感想
+Date: 2025-08-19T12:57:01+09:00
+URL: https://mrk-bbb.hateblo.jp/entry/2025/08/20250819_vampire_survivors_1
+EditURL: https://blog.hatena.ne.jp/mrk_bbb/mrk-bbb.hateblo.jp/atom/entry/6802418398553139283
 ---
 
 どうも。
