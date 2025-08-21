@@ -1,11 +1,10 @@
 ---
 Title: 【雑記】本気で仕事をやってみた
-EditURL: https://blog.hatena.ne.jp/mrk_bbb/mrk-bbb.hateblo.jp/atom/entry/6802418398556700259
-PreviewURL: https://mrk-bbb.hateblo.jp/draft/entry/zbHzkxe9qkIdaxQpWz1_3QJA4gU
-Draft: false
-CustomPath: 2025/08/20250821_shigoto_honki
 Category:
-    - 雑記
+- 雑記
+Date: 2025-08-21T22:35:50+09:00
+URL: https://mrk-bbb.hateblo.jp/entry/2025/08/20250821_shigoto_honki
+EditURL: https://blog.hatena.ne.jp/mrk_bbb/mrk-bbb.hateblo.jp/atom/entry/6802418398556700259
 ---
 
 どうも。
