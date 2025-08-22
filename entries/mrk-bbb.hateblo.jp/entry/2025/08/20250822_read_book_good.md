@@ -1,11 +1,10 @@
 ---
 Title: 【雑記】読書、思ったよりいい
-EditURL: https://blog.hatena.ne.jp/mrk_bbb/mrk-bbb.hateblo.jp/atom/entry/6802418398558199421
-PreviewURL: https://mrk-bbb.hateblo.jp/draft/entry/j1L8tkZ73G35tiEg-v7mvFzov70
-Draft: false
 Category:
-    - 雑記
-CustomPath: 2025/08/20250822_read_book_good
+- 雑記
+Date: 2025-08-22T23:42:56+09:00
+URL: https://mrk-bbb.hateblo.jp/entry/2025/08/20250822_read_book_good
+EditURL: https://blog.hatena.ne.jp/mrk_bbb/mrk-bbb.hateblo.jp/atom/entry/6802418398558199421
 ---
 
 どうも。
