@@ -1,14 +1,12 @@
 ---
 Title: 【雑記・ディズニー】プーについて
-EditURL: https://blog.hatena.ne.jp/mrk_bbb/mrk-bbb.hateblo.jp/atom/entry/6802888565226432521
-PreviewURL: https://www.murinote.com/draft/entry/uSb4eI0VHt9krj_ytYP51S5ZZBE
-Draft: false
 Category:
-    - ディズニー
-    - 雑記
-CustomPath: 2025/09/20250911_about-Pooh
+- ディズニー
+- 雑記
+Date: 2025-09-11T08:15:16+09:00
+URL: https://www.murinote.com/entry/2025/09/20250911_about-Pooh
+EditURL: https://blog.hatena.ne.jp/mrk_bbb/mrk-bbb.hateblo.jp/atom/entry/6802888565226432521
 ---
-
 
 どうも。
 
